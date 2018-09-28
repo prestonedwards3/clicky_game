@@ -1,0 +1,14 @@
+.page-header{
+    height: 300px;
+   /* background-image: url("blackground1.jpg1"); */
+}
+h1{
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+    color:black;
+}
+h2{
+    font-family: 'Cinzel Decorative', cursive;
+    color:black;
+    text-align: center
+}

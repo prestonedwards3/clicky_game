@@ -1,0 +1,15 @@
+.card-body {
+    width: 285px;
+    margin: 15px;
+    border: slateblue solid 2px;
+    position: relative;
+    z-index: 2;
+}
+img {
+    height: 170px;
+    width:280px;
+    float: left;
+    margin: 5px;
+    position: relative;
+    z-index: 1;
+}
