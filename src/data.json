@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Bey",
-        "image": "../images/beyonce.png",
+        "image": "./images/beyonce.png",
         "clicked": false
     },
     {
