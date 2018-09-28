@@ -2,73 +2,73 @@
     {
         "id": 1,
         "name": "Bey",
-        "image": "/images/beyonce.png",
+        "image": "./images/beyonce.png",
         "clicked": false
     },
     {
         "id": 2,
         "name": "Jeff",
-        "image": "/images/bezos.jpg",
+        "image": "./images/bezos.jpg",
         "clicked": false
     },
     {
         "id": 3,
         "name": "Bill",
-        "image": "/images/billgates.jpg",
+        "image": "./images/billgates.jpg",
         "clicked": false
     },
     {
         "id": 4,
         "name": "Albert",
-        "image": "/images/einstein.jpg",
+        "image": "./images/einstein.jpg",
         "clicked": false
     },
     {
         "id": 5,
         "name": "Allen",
-        "image": "/images/iverson.jpg",
+        "image": "./images/iverson.jpg",
         "clicked": false
     },
     {
         "id": 6,
         "name": "Alvin",
-        "image": "/images/kamara.jpg",
+        "image": "./images/kamara.jpg",
         "clicked": false
     },
     {
         "id": 7,
         "name": "Mike",
-        "image": "/images/michael-thomas.jpg",
+        "image": "./images/michael-thomas.jpg",
         "clicked": false
     },
     {
         "id": 8,
         "name": "Neil",
-        "image": "/images/neil.jpg",
+        "image": "./images/neil.jpg",
         "clicked": false
     },
     {
         "id": 9,
         "name": "Rih",
-        "image": "/images/Rihana.jpg",
+        "image": "./images/Rihana.jpg",
         "clicked": false
     },
     {
         "id": 10,
         "name": "Steve",
-        "image": "/images/stevejobs.jpg",
+        "image": "./images/stevejobs.jpg",
         "clicked": false
     },
     {
         "id": 11,
         "name": "Trav",
-        "image": "/images/travisscott.jpg",
+        "image": "./images/travisscott.jpg",
         "clicked": false
     },
     {
         "id": 12,
         "name": "O",
-        "image": "/images/oprah.jpg",
+        "image": "./images/oprah.jpg",
         "clicked": false
     }
 ]
